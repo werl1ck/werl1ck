@@ -25,5 +25,5 @@
 <h2 align="center">Interests</h2>
 
 <p align="center">
-  Rust · Java · Spring Boot · PostgreSQL · Minecraft · Linux
+  Rust · Java · Spring Boot · PostgreSQL · Bukkit API · Linux
 </p></escape>
