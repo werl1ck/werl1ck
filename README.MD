@@ -19,11 +19,11 @@
 <h2 align="center">Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,rust,spring,postgres,linux,git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,rust,spring,hibernate,maven,postgres,postman,linux,git,github,idea,vscode" />
 </p>
 
 <h2 align="center">Interests</h2>
 
 <p align="center">
-  Rust · Java · Spring Boot · PostgreSQL · Bukkit API · Linux
+  Rust · Java · Spring Boot · Hibernate · PostgreSQL · Minecraft · Linux
 </p></escape>
