@@ -8,7 +8,7 @@
 
 <h3 align="center">welcome to my profile :3</h3>
 
-<p align="center">developer interested in Rust, Java, Linux and game development～☆</p>
+<p align="center">developer interested in Rust, Java, Linux and Minecraft～☆</p>
 
 <p align="center">
   <a href="https://github.com/werl1ck">GitHub</a> |
@@ -19,11 +19,11 @@
 <h2 align="center">Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,rust,spring,linux,git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,rust,spring,postgres,linux,git,github,idea,vscode" />
 </p>
 
 <h2 align="center">Interests</h2>
 
 <p align="center">
-  Rust · Java · Spring Boot · Minecraft · Linux
+  Rust · Java · Spring Boot · PostgreSQL · Minecraft · Linux
 </p></escape>
